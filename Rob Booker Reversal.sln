@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rob Booker Reversal", "Rob Booker Reversal\Rob Booker Reversal.csproj", "{BF8C5E47-02BD-4B27-8274-E886C7197F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8C5E47-02BD-4B27-8274-E886C7197F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8C5E47-02BD-4B27-8274-E886C7197F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8C5E47-02BD-4B27-8274-E886C7197F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8C5E47-02BD-4B27-8274-E886C7197F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
